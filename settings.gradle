@@ -3,4 +3,5 @@ rootProject.name = 'java-threads-practice'
 include 'simple-thread'
 include 'three-threads'
 include 'threads-with-stringbuilder'
+include 'philosophers'
 
